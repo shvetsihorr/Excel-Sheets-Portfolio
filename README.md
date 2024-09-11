@@ -14,11 +14,6 @@ Welcome to my **Data Analyst Portfolio**, where I showcase my skills in **Excel*
 - [How to Access the Files](#how-to-access-the-files)
 - [Contact](#contact)
 
-## Introduction
-
-This portfolio includes multiple data analysis projects completed using **Microsoft Excel** and **Google Sheets**. My focus is on cleaning, analyzing, and visualizing data to extract valuable insights. I’ve applied industry-standard techniques to solve problems and communicate findings effectively.
-
-
 ## Skills Demonstrated
 
 - Data Cleaning and Preparation
@@ -33,7 +28,15 @@ This portfolio includes multiple data analysis projects completed using **Micros
 ## Projects
 
 ### Project 1: Analyzing Game Performance and Monetization Metrics!
-
+Added and calculated:
+1. Total_revenue
+2. Paid_users_count
+3. CR_to_paid_users
+4. ARPPU - average_revenue_per_pay_user
+5. Median_age
+6. Minimum_age
+7. Average_age
+   
 [View Project](https://docs.google.com/spreadsheets/d/1F9Uwg5q6XEsSFQx10aBxMZngsFyvJbU7XD-G8UP7-DA/edit?usp=sharing)
 
 I was focused on data cleaning and calculating key performance indicators (KPIs) to drive insights for improving game performance.
