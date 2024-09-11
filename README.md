@@ -43,12 +43,25 @@ As part of my analysis of user demographics, I focused on the 'active users' dat
 I analyzed user engagement by creating and managing sheets for Daily Active Users (DAU) and Weekly Active Users (WAU), including statistical calculations and data visualizations.
 
 - **Skills demonstrated**: Data manipulation, statistical analysis, data visualization, trend analysis, and use of advanced spreadsheet functions.
-
-<img width="1368" alt="Project Daily and Weekly Active Users Analysis" src="https://github.com/user-attachments/assets/744f0020-ae6c-443e-b129-6c74c5858b1f">
-
 - **Enhanced Activity Sheet**: Added columns for `week_start_date`, `weekday`, `activity_month`, `activity_month_number`, and `1st_activity_month`.
 - **DAU Sheet**: Created a sheet with unique `activity_date` values, calculated DAU using `COUNTUNIQUEIFS`, and added `week_start_date`.
 - **WAU Sheet**: Developed a sheet with unique `week_start_date` values, calculated WAU, and included columns for Average DAU and User Stickiness (DAU/WAU).
 - **WAU Trend Analysis**: Created a chart on the "WAU" sheet with weeks on the horizontal axis and WAU values on the vertical axis. Added a linear trendline to visualize trends in weekly active users over time.
 
 This project provides a comprehensive view of user engagement, including trend analysis to support strategic decision-making.
+
+<img width="1368" alt="Project Daily and Weekly Active Users Analysis" src="https://github.com/user-attachments/assets/744f0020-ae6c-443e-b129-6c74c5858b1f">
+
+
+### Project 4: Forecasting Daily and Weekly Active Users (WAU/DAU)
+[View Project](https://docs.google.com/spreadsheets/d/1LRXWWGK_6Y1-qU6vuvjK7WRTNRVLUpg9p6oHu-mYKIw/edit?usp=sharing)
+
+I forecasted Daily Active Users (DAU) and Weekly Active Users (WAU) for the next 20 weeks using historical data and built trend analysis.
+- Extended Week Data: Added 20 new rows for future weeks on the "WAU" sheet.
+- Forecasting: Used ROUND and FORECAST functions to predict DAU and WAU values for the new weeks, fixing historical data ranges for accurate forecasting.
+- Stickiness Calculation: Filled in the DAU/WAU ratio for the forecasted weeks.
+- Visualization: Created a chart showing WAU over time with a linear trendline to highlight user stickiness trends.
+This project demonstrates my ability to forecast user metrics and visualize trends for strategic insights.
+
+<img width="1191" alt="Project Forecasting DAU and WAU" src="https://github.com/user-attachments/assets/dae1baab-22d5-4c4b-8ccc-cef756829c53">
+
