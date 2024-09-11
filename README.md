@@ -20,7 +20,16 @@ Welcome to my **Data Analyst Portfolio**, where I showcase my skills in **Excel*
    
 [View Project](https://docs.google.com/spreadsheets/d/1F9Uwg5q6XEsSFQx10aBxMZngsFyvJbU7XD-G8UP7-DA/edit?usp=sharing)
 
-I was focused on data cleaning and calculating key performance indicators (KPIs) to drive insights for improving game performance.
+I cleaned data and calculated KPIs to improve game performance and provide insights for game managers.
+
+Key Metrics:
+Total Revenue: For each game.
+Paid Users Count: Across all games.
+Conversion Rate: Users to paid users.
+ARPPU: Average revenue per paying user.
+Age Statistics: Average, median, minimum, and maximum ages of paying users.
+
+This project provided insights for improving game monetization and user engagement.
 
 <img width="957" alt="Analyzing Game Performance and Monetization Metrics" src="https://github.com/user-attachments/assets/26736ffd-e1d0-45f1-ae04-c645b372e646">
 
