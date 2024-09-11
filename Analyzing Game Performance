@@ -1,0 +1,23 @@
+### Analyzing Game Performance and Monetization Metrics
+
+- **Skills demonstrated**: Data cleaning, advanced formula usage, user behavior analysis, and data-driven insights.
+- **Key functions used**: `SUMIF()`, `COUNTIF()`, `AVERAGEIF()`, `MEDIAN()`, `MIN()`, `MAX()`, and `ARRAYFORMULA()` for efficient data calculations.
+
+- **Tasks**:
+  - **Data Cleaning**: Ensured data consistency and accuracy across all game metrics.
+  - **Data Calculations**:
+    1. **Total Revenue**: Calculated the total revenue for each game using the sum of the revenue column.
+    2. **Paid Users Count**: Counted the total number of paying users.
+    3. **CR to Paid**: Calculated conversion rate (CR) from users to paying users as a percentage.
+    4. **ARPPU**: Determined the average revenue per paying user.
+    5. **Average Age (Paid Users)**: Calculated the average age of paying users across all games.
+    6. **Median Age (Paid Users)**: Calculated the median age of paying users.
+    7. **Minimum Age (Paid Users)**: Found the minimum age among paying users.
+    8. **Maximum Age (Paid Users)**: Found the maximum age among paying users.
+  
+- **Recommendations**:
+  - Identify age segments with higher conversion rates to focus marketing efforts.
+  - Optimize user acquisition strategies by targeting demographics with higher monetization potential.
+  - Enhance in-game monetization features tailored for paying users' behaviors.
+
+[View Project](link-to-project-1)
