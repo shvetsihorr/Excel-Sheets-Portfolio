@@ -18,6 +18,18 @@ Welcome to my **Data Analyst Portfolio**, where I showcase my skills in **Excel*
 
 This portfolio includes multiple data analysis projects completed using **Microsoft Excel** and **Google Sheets**. My focus is on cleaning, analyzing, and visualizing data to extract valuable insights. I’ve applied industry-standard techniques to solve problems and communicate findings effectively.
 
+
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+- Data Visualization
+- Statistical Analysis
+- Dashboard Creation
+- Financial Analysis
+- Advanced Formulas and Functions
+- Pivot Tables & Pivot Charts
+- Data Validation and Automation
+
 ## Projects
 
 ### Project 1: Analyzing Game Performance and Monetization Metrics!
@@ -46,7 +58,7 @@ I analyzed user age demographics and device usage for active users and conducted
 
 [View Project](https://docs.google.com/spreadsheets/d/1XgtfhbdW503GjHmgtdPYeKhkjHSXRfmUKU4CgEMyUUA/edit?usp=sharing)
 
-**Summary**: I analyzed user engagement by creating and managing sheets for Daily Active Users (DAU) and Weekly Active Users (WAU), including statistical calculations and data visualizations.
+I analyzed user engagement by creating and managing sheets for Daily Active Users (DAU) and Weekly Active Users (WAU), including statistical calculations and data visualizations.
 
 - **Skills demonstrated**: Data manipulation, statistical analysis, data visualization, trend analysis, and use of advanced spreadsheet functions.
 
@@ -54,24 +66,7 @@ I analyzed user age demographics and device usage for active users and conducted
 
 - **Enhanced Activity Sheet**: Added columns for `week_start_date`, `weekday`, `activity_month`, `activity_month_number`, and `1st_activity_month`.
 - **DAU Sheet**: Created a sheet with unique `activity_date` values, calculated DAU using `COUNTUNIQUEIFS`, and added `week_start_date`.
-- **WAU Sheet**: Developed a sheet with unique `week_start_date` values, calculated WAU, and included columns for Average DAU, DAU/WAU ratio, and Stickiness (DAU/WAU).
+- **WAU Sheet**: Developed a sheet with unique `week_start_date` values, calculated WAU, and included columns for Average DAU and User Stickiness (DAU/WAU).
 - **WAU Trend Analysis**: Created a chart on the "WAU" sheet with weeks on the horizontal axis and WAU values on the vertical axis. Added a linear trendline to visualize trends in weekly active users over time.
 
 This project provides a comprehensive view of user engagement, including trend analysis to support strategic decision-making.
-
-
-## Skills Demonstrated
-
-- Data Cleaning and Preparation
-- Data Visualization
-- Statistical Analysis
-- Dashboard Creation
-- Financial Analysis
-- Advanced Formulas and Functions
-- Pivot Tables & Pivot Charts
-- Data Validation and Automation
-
-## Tools Used
-
-- **Microsoft Excel**: For in-depth analysis, pivot tables, charts, and automation.
-- **Google Sheets**: For real-time collaboration, advanced querying with `QUERY()`, and integration with other Google services.
