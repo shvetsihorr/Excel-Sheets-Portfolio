@@ -29,14 +29,18 @@ This portfolio includes multiple data analysis projects completed using **Micros
 <img width="957" alt="Analyzing Game Performance and Monetization Metrics" src="https://github.com/user-attachments/assets/26736ffd-e1d0-45f1-ae04-c645b372e646">
 
 
-### Project 2: Sales Analysis in Excel
-**Summary**: Conducted sales data analysis for a retail company, identifying sales trends, product performance, and seasonality patterns. Created a dashboard to present findings.
+### Project 2: User Demographics and Device Analysis
 
-- **Skills demonstrated**: Data modeling, financial forecasting, charts, pivot tables.
-- **Key functions used**: `VLOOKUP()`, `SUMIFS()`, `IF()`, pivot charts, slicers.
-- **Outcome**: Generated actionable insights on sales trends and product performance.
+[View Project](https://docs.google.com/spreadsheets/d/1LHg_NAnDhJs7B9ctFCGpdEKKXfptMYYg-y1Fdkvz8l8/edit?usp=sharing)
 
-[View Project](link-to-project-2)
+**Summary**: I analyzed user age demographics and device usage for active users and conducted statistical analysis on age distribution and created visualizations to understand user language preferences and device models.
+
+- **Skills demonstrated**: Descriptive statistics, data visualization, data analysis.
+- **Key functions used**: `AVERAGE()`, `STDEV()`, `MEDIAN()`, `QUARTILE()`, percentiles, horizontal bar charts, pie charts and Interquartile Range (IQR)
+- **Outcome**: Provided insights into user age distribution, language preferences, and device model trends.
+
+<img width="1300" alt="User Demographics and Device Analysis" src="https://github.com/user-attachments/assets/6141e0bc-b5df-4984-97b8-815a98e29591">
+
 
 ### Project 3: Financial Budget Tracker in Google Sheets
 **Summary**: Created a personal budget tracker for managing monthly income and expenses. Automated data entry and tracking to monitor savings and investments.
