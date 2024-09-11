@@ -14,28 +14,9 @@ Welcome to my **Data Analyst Portfolio**, where I showcase my skills in **Excel*
 - [How to Access the Files](#how-to-access-the-files)
 - [Contact](#contact)
 
-## Skills Demonstrated
-
-- Data Cleaning and Preparation
-- Data Visualization
-- Statistical Analysis
-- Dashboard Creation
-- Financial Analysis
-- Advanced Formulas and Functions
-- Pivot Tables & Pivot Charts
-- Data Validation and Automation
-
 ## Projects
 
 ### Project 1: Analyzing Game Performance and Monetization Metrics!
-Added and calculated:
-1. Total_revenue
-2. Paid_users_count
-3. CR_to_paid_users
-4. ARPPU - average_revenue_per_pay_user
-5. Median_age
-6. Minimum_age
-7. Average_age
    
 [View Project](https://docs.google.com/spreadsheets/d/1F9Uwg5q6XEsSFQx10aBxMZngsFyvJbU7XD-G8UP7-DA/edit?usp=sharing)
 
