@@ -29,10 +29,8 @@ I was focused on data cleaning and calculating key performance indicators (KPIs)
 
 [View Project](https://docs.google.com/spreadsheets/d/1LHg_NAnDhJs7B9ctFCGpdEKKXfptMYYg-y1Fdkvz8l8/edit?usp=sharing)
 
-I analyzed user age demographics and device usage for active users and conducted statistical analysis on age distribution and created visualizations to understand user language preferences and device models.
+As part of my analysis of user demographics, I focused on the 'active users' dataset. By calculating key statistical measures such as mean, standard deviation, median, interquartile range, and 10th and 90th percentiles for user age, I gained valuable insights into our user base's age distribution. These findings will be instrumental in tailoring our products and marketing strategies to serve our target audience better.
 
-- **Skills demonstrated**: Descriptive statistics, data visualization, data analysis.
-- **Key functions used**: `AVERAGE()`, `STDEV()`, `MEDIAN()`, `QUARTILE()`, percentiles, horizontal bar charts, pie charts and Interquartile Range (IQR)
 - **Outcome**: Provided insights into user age distribution, language preferences, and device model trends.
 
 <img width="1300" alt="User Demographics and Device Analysis" src="https://github.com/user-attachments/assets/6141e0bc-b5df-4984-97b8-815a98e29591">
