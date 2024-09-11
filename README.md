@@ -22,11 +22,11 @@ This portfolio includes multiple data analysis projects completed using **Micros
 
 ### Project 1: Analyzing Game Performance and Monetization Metrics!
 
-[View Project](link-to-project-1)
+[View Project](https://docs.google.com/spreadsheets/d/1F9Uwg5q6XEsSFQx10aBxMZngsFyvJbU7XD-G8UP7-DA/edit?usp=sharing)
 
 **Summary**: Analyzed key game metrics using Google Sheets to evaluate user acquisition and monetization. I was focused on data cleaning and calculating key performance indicators (KPIs) to drive insights for improving game performance.
 
-<img width="953" alt="Analyzing Game Performance and Monetization Metrics" src="https://github.com/user-attachments/assets/d42de9e4-741e-4612-a352-d52dc075dc01">
+<img width="957" alt="Analyzing Game Performance and Monetization Metrics" src="https://github.com/user-attachments/assets/26736ffd-e1d0-45f1-ae04-c645b372e646">
 
 
 ### Project 2: Sales Analysis in Excel
