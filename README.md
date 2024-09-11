@@ -24,7 +24,7 @@ This portfolio includes multiple data analysis projects completed using **Micros
 
 [View Project](https://docs.google.com/spreadsheets/d/1F9Uwg5q6XEsSFQx10aBxMZngsFyvJbU7XD-G8UP7-DA/edit?usp=sharing)
 
-**Summary**: Analyzed key game metrics using Google Sheets to evaluate user acquisition and monetization. I was focused on data cleaning and calculating key performance indicators (KPIs) to drive insights for improving game performance.
+I was focused on data cleaning and calculating key performance indicators (KPIs) to drive insights for improving game performance.
 
 <img width="957" alt="Analyzing Game Performance and Monetization Metrics" src="https://github.com/user-attachments/assets/26736ffd-e1d0-45f1-ae04-c645b372e646">
 
@@ -33,7 +33,7 @@ This portfolio includes multiple data analysis projects completed using **Micros
 
 [View Project](https://docs.google.com/spreadsheets/d/1LHg_NAnDhJs7B9ctFCGpdEKKXfptMYYg-y1Fdkvz8l8/edit?usp=sharing)
 
-**Summary**: I analyzed user age demographics and device usage for active users and conducted statistical analysis on age distribution and created visualizations to understand user language preferences and device models.
+I analyzed user age demographics and device usage for active users and conducted statistical analysis on age distribution and created visualizations to understand user language preferences and device models.
 
 - **Skills demonstrated**: Descriptive statistics, data visualization, data analysis.
 - **Key functions used**: `AVERAGE()`, `STDEV()`, `MEDIAN()`, `QUARTILE()`, percentiles, horizontal bar charts, pie charts and Interquartile Range (IQR)
