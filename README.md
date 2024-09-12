@@ -2,16 +2,20 @@
 
 Welcome to my **Data Analyst Portfolio**, where I showcase my skills in **Excel** and **Google Sheets** through various data analysis projects. Each project demonstrates my expertise in handling real-world datasets, performing detailed analysis, and providing actionable insights.
 
+Feel free to connect with me via: LinkedIn https://www.linkedin.com/in/ihorshvets/, email: shvets.ihor@outlook.com
+
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Analyzing Game Performance and Monetization Metrics!](#project-1-Analyzing-Game-Performance-and-Monetization-Metrics)
-  - [Project 2: Sales Analysis in Excel](#project-2-sales-analysis-in-excel)
-  - [Project 3: Financial Budget Tracker in Google Sheets](#project-3-financial-budget-tracker-in-google-sheets)
+  - [Project 1: Analyzing Game Performance and Monetization Metrics](#project-1-analyzing-game-performance-and-monetization-metrics)
+  - [Project 2: User Demographics and Device Analysis](#project-2-user-demographics-and-device-analysis)
+  - [Project 3: Daily and Weekly Active Users Analysis](#project-3-daily-and-weekly-active-users-analysis)
+  - [Project 4: Forecasting Daily and Weekly Active Users (WAU/DAU)](#project-4-forecasting-daily-and-weekly-active-users-waudau)
+  - [Project 5: Cohort Analysis with Retention Rate Calculation](#project-5-cohort-analysis-with-retention-rate-calculation)
+  - [Project 6: Functions: XLOOKUP, SPLIT](#project-6-functions-xlookup-split)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Tools Used](#tools-used)
-- [How to Access the Files](#how-to-access-the-files)
+- [Key Features Used](#key-features-used)
 - [Contact](#contact)
 
 ## Projects
@@ -100,3 +104,31 @@ I conducted a cohort analysis based on users' first activity month, using pivot 
   This improved data clarity and allowed for a more granular analysis of user activity.
 
 <img width="1297" alt="Project XLOOKUP, SPLIT" src="https://github.com/user-attachments/assets/09551b49-d775-4023-b54c-de88e0909dd9">
+
+## Skills Demonstrated
+
+Across these projects, I demonstrated a range of skills essential for data analysis, including:
+
+- Data Cleaning: Handling raw datasets, transforming messy data into organized, usable formats, and ensuring accuracy.
+- Statistical Analysis: Performing calculations like averages, medians, standard deviations, and percentiles to extract meaningful insights from the data.
+- KPI Calculation: Expertise in calculating critical metrics such as total revenue, conversion rates, ARPPU, and retention rates to evaluate performance.
+- Forecasting: Using functions like ROUND and FORECAST to project future user engagement and analyze trends.
+- Cohort Analysis: Implementing cohort-based retention analysis using pivot tables to track user behavior and trends over time.
+- Advanced Functions: Utilizing functions like XLOOKUP and SPLIT to map user data and organize activity logs for deeper analysis.
+- Data Visualization: Creating charts and trendlines to communicate data insights clearly, aiding in decision-making and strategic planning.
+- Google Sheets Automation: Efficient use of Google Sheets functions and tools for dynamic analysis and streamlined data handling.
+
+## Tools Used:
+- Microsoft Excel: For data cleaning, statistical analysis, KPI calculation, and financial tracking using advanced formulas and visualizations.
+- Google Sheets: For organizing data, performing complex calculations, creating dynamic tables, and automating workflows with functions like XLOOKUP, SPLIT, and FORECAST.
+
+### Key Features Used:
+- Pivot Tables: To summarize and analyze large datasets efficiently, particularly for cohort analysis and tracking key metrics.
+- Google Sheets Charts: For visualizing trends and patterns in user engagement, monetization, and forecasted data over time.
+- Conditional Formatting: to apply formatting (such as colors and font styles) to cells based on their values or other criteria. This helps in visually analyzing data by highlighting trends, outliers, and important metrics.
+
+## Contact
+Feel free to connect with me via: 
+ - LinkedIn https://www.linkedin.com/in/ihorshvets/,
+ - Email: shvets.ihor@outlook.com
+
