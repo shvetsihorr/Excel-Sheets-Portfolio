@@ -77,3 +77,14 @@ This project demonstrates my ability to forecast user metrics and visualize tren
 
 <img width="1191" alt="Project Forecasting DAU and WAU" src="https://github.com/user-attachments/assets/dae1baab-22d5-4c4b-8ccc-cef756829c53">
 
+### Project 5: Cohort Analysis with Retention Rate Calculation
+[View Project](https://docs.google.com/spreadsheets/d/1Z3gW2RgGniv1nwym5bCdX90N9PQBOtYxrChfdxG9KLA/edit?usp=sharing)
+
+I conducted a cohort analysis based on users' first activity month, using pivot tables for unique user counts and retention rates, with slicers for filtering.
+
+- Pivot Table: Displayed first activity month (rows), activity month number (columns), and unique users (values). I added slicers for the game, activity type, and user language.
+- Retention Rate Table: Created a dynamic table below the pivot table, calculating retention rates by dividing users in a given month by users in their first month.
+- Conditional Formatting: Applied gradient formatting to highlight key values.
+- This analysis simplifies tracking user retention over time with flexible filtering and clear visuals.
+
+  <img width="1272" alt="Cohort Analysis with Retention Rate Calculation" src="https://github.com/user-attachments/assets/95eb5908-ad6a-4274-ad39-1e6e4c9bb02e">
