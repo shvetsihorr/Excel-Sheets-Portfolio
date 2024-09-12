@@ -88,3 +88,15 @@ I conducted a cohort analysis based on users' first activity month, using pivot 
 - This analysis simplifies tracking user retention over time with flexible filtering and clear visuals.
 
   <img width="1272" alt="Cohort Analysis with Retention Rate Calculation" src="https://github.com/user-attachments/assets/95eb5908-ad6a-4274-ad39-1e6e4c9bb02e">
+
+  ### Project 6: Functions: XLOOKUP, SPLIT
+  [View Project](https://docs.google.com/spreadsheets/d/1UwEmHPn1qVHTHPm8Y45TkmckpetqHCia8FYy4rN3QVY/edit?usp=sharing)
+
+  I split the game activity data and mapped user languages using lookup functions to enhance data organization and analysis.
+
+- Split Game and Activity Names: On the "activity" sheet, I separated the game_activity_name column into two parts: game and activity, using the delimiter ": ". =SPLIT(F2, ":")
+- User Language Mapping: Added a new column for user language on the "activity" sheet, and populated it by referencing the "active users" sheet with the XLOOKUP function. =XLOOKUP(A2,'active users'!$A:$A,'active users'!$C:$C)
+
+  This improved data clarity and allowed for a more granular analysis of user activity.
+
+<img width="1297" alt="Project XLOOKUP, SPLIT" src="https://github.com/user-attachments/assets/09551b49-d775-4023-b54c-de88e0909dd9">
